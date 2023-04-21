@@ -1,2 +1,2 @@
 # MakeLifeEasy
-The toolkit for the student of Studio Lynn
+The toolkit for the student of Studio Lynn.
