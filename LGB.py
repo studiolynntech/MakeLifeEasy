@@ -178,7 +178,7 @@ class LGBPanel0(bpy.types.Panel):
         row.operator("view3d.bakingoperator")
         
         box = layout.box()
-        box.label(text="MOTION PATH TO MESH")
+        box.label(text="MOTION PATH TO POLYLINE")
         row = box.row()
         row.prop_search(scene, "target2", scene, "objects", text="Select Object")
         row = box.row()
